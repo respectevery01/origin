@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-base:"https://fi.jask.cc/",
+base:"/",
   title: "原初混沌",
   description: "一本长篇科幻小说",
   themeConfig: {
