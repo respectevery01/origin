@@ -3,6 +3,9 @@ const currentYear = new Date().getFullYear();
 
 export default defineConfig({
   base: '/',
+  head: [
+    ['link',{rel:'icom',href:'./originmull.png'}]
+  ],
 
   locales: {
     root: {
@@ -48,7 +51,8 @@ export default defineConfig({
         docFooter: {
           prev: '上一篇',
           next: '下一篇'
-        }
+        },
+        logo: 'https://pic.superbed.cc/item/671e2c99fa9f77b4dc0ddf5b.png'
       },
     },
     en: {
@@ -83,7 +87,8 @@ export default defineConfig({
         footer: {
           message: 'Reproduction prohibited, all rights reserved',
           copyright: `Copyright © 2023-${currentYear} Jask`
-        }
+        },
+        logo: 'https://pic.superbed.cc/item/671e2c99fa9f77b4dc0ddf5b.png'
       }
       
 
@@ -117,7 +122,8 @@ export default defineConfig({
         docFooter: {
           prev: '上一篇',
           next: '下一篇'
-        }
+        },
+        logo: 'https://pic.superbed.cc/item/671e2c99fa9f77b4dc0ddf5b.png'
       }
     }
 
