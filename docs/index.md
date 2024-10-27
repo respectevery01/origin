@@ -5,7 +5,10 @@ layout: home
 hero:
   name: "原初混沌"
   text: "一本长篇科幻小说"
-  tagline: 
+  tagline:
+  image:
+      src: ././brand.png
+      alt: OriginMull 
   actions:
     - theme: brand
       text: 开始阅读

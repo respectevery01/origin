@@ -6,6 +6,9 @@ hero:
   name: "OriginMull"
   text: "A long-form science fiction novel"
   tagline: 
+  image:
+      src: ././brand.png
+      alt: OriginMull 
   actions:
     - theme: brand
       text: Read
