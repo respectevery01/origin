@@ -13,7 +13,8 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: '主页', link: '/'},
-          { text: '关于', link: '/about'}
+          { text: '关于', link: '/about'},
+          { text: '隐私政策', link: '/privacy'}
         ],
         sidebar: [
           {
@@ -59,7 +60,8 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/en'},
-          { text: 'About', link: '/en/about'}
+          { text: 'About', link: '/en/about'},
+          { text: 'Privacy', link: '/en/privacy'}
         ],
         sidebar: [
           {
@@ -96,7 +98,8 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: '主頁', link: '/tc'},
-          { text: '關於', link: '/about'}
+          { text: '關於', link: '/about'},
+          { text: '隱私政策', link: '/tc/privacy'}
         ],
         
         socialLinks: [
