@@ -4,7 +4,7 @@ const currentYear = new Date().getFullYear();
 export default defineConfig({
   base: '/',
   head: [
-    ['link',{rel:'icom',href:'./originmull.png'}]
+    ['link',{rel:'icom',href:'/originmull.png'}]
   ],
 
   locales: {
