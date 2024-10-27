@@ -28,7 +28,7 @@ export default defineConfig({
         socialLinks: [
           {
             icon: {
-              svg: '<img src=".vitepress/public/icon/weibo.svg" alt="Weibo" style="width: 1.5em; height: 1.5em;">'
+              svg: '<img src="https://pic.superbed.cc/item/671df513fa9f77b4dc0bddef.png" alt="Weibo" style="width: 1.5em; height: 1.5em;">'
             }, link: 'https://weibo.com/u/7764179887'
           },
           {
