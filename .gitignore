@@ -5,4 +5,3 @@ dist-ssr
 cache
 .cache
 .temp
-*.local

@@ -1,4 +1,4 @@
-# Chapter One: Memories
+# Chapter 1: Memories
 
 “It’s been so many days and nights now... I’ve lost count.”
 

@@ -5,6 +5,11 @@
     "docs:dev": "vitepress dev docs"
   },
   "devDependencies": {
+    "feed": "^4.2.2",
     "vitepress": "^1.4.1"
+  },
+  "dependencies": {
+    "vite-plugin-rss": "^0.0.6",
+    "vitepress-plugin-rss": "^0.3.0"
   }
-  }
+}

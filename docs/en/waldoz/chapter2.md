@@ -1,4 +1,4 @@
-# Chapter Two: Amnesia
+# Chapter 2: Amnesia
 
 This was one of countless business trips Claude had taken. Since being expelled from New Way Polytechnic’s Department of Finance, he had lost interest in finance—perhaps due to the lingering sense of loss.
 

@@ -23,9 +23,11 @@ export default defineConfig({
           {
             text: '瓦尔多斯',
             items: [
+              { text: '写在前面', link: '/waldoz/preface'},
               { text: '第一章 回忆', link: '/waldoz/chapter1'},
               { text: '第二章 失忆', link: '/waldoz/chapter2'},
-              { text: '第一章 我', link: '/waldoz/chapter3'}
+              { text: '第三章 我', link: '/waldoz/chapter3'},
+              { text: '第四章 忏悔日', link: '/waldoz/chapter4'}
             ]
           }
         ],
@@ -71,9 +73,11 @@ export default defineConfig({
           {
             text: 'Waldoz',
             items: [
+              { text: 'Preface', link: '/en/waldoz/preface'},
               { text: 'Chapter 1: Memories', link: '/en/waldoz/chapter1'},
               { text: 'Chapter 2: Amnesia', link: '/en/waldoz/chapter2'},
-              { text: 'Chapter 3: me', link: '/en/waldoz/chapter3'}
+              { text: 'Chapter 3: me', link: '/en/waldoz/chapter3'},
+              {text: 'Chapter 4: Day of Repentance', link: '/en/waldoz/chapter4'}
             ]
           }
         ],

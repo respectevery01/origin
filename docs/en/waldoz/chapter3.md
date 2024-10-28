@@ -1,4 +1,4 @@
-# Chapter Three: Me
+# Chapter 3: Me
 
 “Claude, what are you standing there for? Come play with everyone!” Claude heard a familiar and ethereal voice calling out to him. Slowly, he lifted his head. A tall, thin middle-aged man was calling to him from ahead.
 
