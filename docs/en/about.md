@@ -2,9 +2,13 @@
 
 Life is a wilderness, not a shackle
 
-I've been conceptualising this story for two years now. I started it when I first entered college.
+~~I've been conceptualising this story for two years now. I started it when I first entered college.~~
 
-Actually, the original protagonist wasn't Claude, but someone else.
+~~Actually, the original protagonist wasn't Claude, but someone else.~~
+
+(I'm a sucker for perfection, and even though I've been working on this story for a long time, I still don't think I'll be able to finish it. I'll take my time to finish it.)
+
+Actually simply I'm lazy and don't want to update.
 
 It has the imprint of my life in it, and the last time I wrote a novel properly was years ago.
 
@@ -39,10 +43,6 @@ I'm not sure if I'll keep updating it in the future, but I'll keep it as the mos
 [Read English Everyday](https://read.woohu.cc/)
 
 [Former Blog](https://wyt.icu/)
-
-[Mysterious Website](https://urgenth.cc/)
-
-[Claude's Twitter](https://x.com/Claude_Ivers)
 
 
 

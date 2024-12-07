@@ -3,12 +3,9 @@
 layout: home
 
 hero:
-  name: "OriginMull"
-  text: "A long-form science fiction novel"
+  name: "TFDS"
+  text: "Treasures from the Dream Sea."
   tagline: 
-  image:
-      src: ././brand.png
-      alt: OriginMull 
   actions:
     - theme: brand
       text: Read
@@ -19,9 +16,9 @@ hero:
 
 features:
   - title: Waldoz
-    details: The beginning of the story
+    details: An interstellar epic.
   - title: Forward Pass
-    details: Soon...
+    details: A prequel to The Waldos.
   - title: More
     details: Soon...
 ---

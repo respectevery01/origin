@@ -3,12 +3,9 @@
 layout: home
 
 hero:
-  name: "原初混沌"
-  text: "一本长篇科幻小说"
+  name: "梦海拾遗"
+  text: "短篇小说集"
   tagline:
-  image:
-      src: ././brand.png
-      alt: OriginMull 
   actions:
     - theme: brand
       text: 开始阅读
@@ -19,9 +16,9 @@ hero:
 
 features:
   - title: 《瓦尔多斯》
-    details: 故事的开始
+    details: 一部星际史诗
   - title: 《前传》
-    details: 敬请期待
+    details: 《瓦尔多斯》的前传
   - title: 更多...
     details: 敬请期待
 ---

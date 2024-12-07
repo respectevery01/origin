@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Welcome to the OriginMull website ("this website"). Before using this website, please carefully read the following privacy policy. This policy applies to all users who visit and use this website.
+Welcome to the *TFDS* website ("this website"). Before using this website, please carefully read the following privacy policy. This policy applies to all users who visit and use this website.
 
 ## 1. Intellectual Property
 

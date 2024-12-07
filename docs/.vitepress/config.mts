@@ -11,8 +11,8 @@ export default defineConfig({
     root: {
       label: '简体中文',
       lang: 'zh',
-      title: '原初混沌',
-      description: '一本长篇科幻小说',
+      title: '梦海拾遗',
+      description: '记录稀奇古怪的文章',
       themeConfig: {
         nav: [
           { text: '主页', link: '/'},
@@ -23,25 +23,20 @@ export default defineConfig({
           {
             text: '瓦尔多斯',
             items: [
-              { text: '写在前面', link: '/waldoz/preface'},
               { text: '第一章 回忆', link: '/waldoz/chapter1'},
               { text: '第二章 失忆', link: '/waldoz/chapter2'},
               { text: '第三章 我', link: '/waldoz/chapter3'},
               { text: '第四章 忏悔日', link: '/waldoz/chapter4'}
             ]
+          },
+          {text: '前传',
+            items: [
+              {text: '更多', link: "/"}
+            ]
           }
         ],
         socialLinks: [
-          {
-            icon: {
-              svg: '<img src="https://pic.superbed.cc/item/671df513fa9f77b4dc0bddef.png" alt="Weibo" style="width: 1.5em; height: 1.5em;">'
-            }, link: 'https://weibo.com/u/7764179887'
-          },
-          {
-            icon: {
-              svg: '<img src="https://static.afdiancdn.com/static/img/logo/logo.png" alt="afadian" style="width: 1.5em; height: 1.5em;">'
-            }, link: 'https://afdian.com/a/jianqiumoli'
-          }
+          { icon: 'twitter', link: 'https://x.com/jask_don'}
           
         ],
         footer: {
@@ -54,15 +49,15 @@ export default defineConfig({
           prev: '上一篇',
           next: '下一篇'
         },
-        logo: './logo.png'
+        logo: '/logo.png'
       },
     },
     en: {
       label: 'English',
       lang: 'en', 
       link: '/en',
-      title: 'OriginMull',
-      description: 'A long-form science fiction novel',
+      title: 'TFDS',
+      description: 'Documentation of rare and bizarre articles',
       themeConfig: {
         nav: [
           { text: 'Home', link: '/en'},
@@ -73,63 +68,32 @@ export default defineConfig({
           {
             text: 'Waldoz',
             items: [
-              { text: 'Preface', link: '/en/waldoz/preface'},
               { text: 'Chapter 1: Memories', link: '/en/waldoz/chapter1'},
               { text: 'Chapter 2: Amnesia', link: '/en/waldoz/chapter2'},
               { text: 'Chapter 3: me', link: '/en/waldoz/chapter3'},
               {text: 'Chapter 4: Day of Repentance', link: '/en/waldoz/chapter4'}
             ]
+          },
+          {
+            text: 'Forward',
+            items: [
+              {text: 'More', link: '/'}
+            ]
           }
         ],
         socialLinks: [
-          { icon: 'twitter', link: 'https://x.com/jask_don'},
-          {
-            icon:{
-            svg: '<img src="https://pic.superbed.cc/item/671dee5bfa9f77b4dc0ba4f0.png" alt="patreon" style="width: 1.5em; height: 1.5em;">'
-          }, link: 'https://www.patreon.com/c/user?u=82749878'}
+          { icon: 'twitter', link: 'https://x.com/jask_don'}
         ],
         footer: {
           message: 'Reproduction prohibited, all rights reserved',
           copyright: `Copyright © 2023-${currentYear} Jask`
         },
-        logo: './logo.png'
+        logo: '/logo.png'
       }
       
 
      
     },
-    tc: {
-      label: '繁體中文',
-      lang: 'tc',
-      link: '/tc',
-      title: '原初混沌',
-      description: '一部長篇科幻小說',
-      themeConfig: {
-        nav: [
-          { text: '主頁', link: '/tc'},
-          { text: '關於', link: '/about'},
-          { text: '隱私政策', link: '/tc/privacy'}
-        ],
-        
-        socialLinks: [
-          { icon: 'twitter', link: 'https://x.com/jask_don'},
-          {
-            icon:{
-            svg: '<img src="https://pic.superbed.cc/item/671dee5bfa9f77b4dc0ba4f0.png" alt="patreon" style="width: 1.5em; height: 1.5em;">'
-          }, link: 'https://www.patreon.com/c/user?u=82749878'}
-        ],
-        outlineTitle: '本頁目錄',
-        footer: {
-          message: '禁止複製，保留所有權利',
-          copyright: `Copyright © 2023-${currentYear} Jask`
-        },
-        docFooter: {
-          prev: '上一篇',
-          next: '下一篇'
-        },
-        logo: './logo.png'
-      }
-    }
 
     
   },
