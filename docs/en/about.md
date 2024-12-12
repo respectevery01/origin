@@ -2,10 +2,6 @@
 
 Life is a wilderness, not a shackle
 
-~~I've been conceptualising this story for two years now. I started it when I first entered college.~~
-
-~~Actually, the original protagonist wasn't Claude, but someone else.~~
-
 (I'm a sucker for perfection, and even though I've been working on this story for a long time, I still don't think I'll be able to finish it. I'll take my time to finish it.)
 
 Actually simply I'm lazy and don't want to update.

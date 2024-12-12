@@ -20,16 +20,7 @@ export default defineConfig({
           { text: '隐私政策', link: '/privacy'}
         ],
         sidebar: [
-          {
-            text: '瓦尔多斯',
-            items: [
-              { text: '第一章 回忆', link: '/waldoz/chapter1'},
-              { text: '第二章 失忆', link: '/waldoz/chapter2'},
-              { text: '第三章 我', link: '/waldoz/chapter3'},
-              { text: '第四章 忏悔日', link: '/waldoz/chapter4'}
-            ]
-          },
-          {text: '前传',
+          {text: '更多',
             items: [
               {text: '更多', link: "/"}
             ]
@@ -66,16 +57,7 @@ export default defineConfig({
         ],
         sidebar: [
           {
-            text: 'Waldoz',
-            items: [
-              { text: 'Chapter 1: Memories', link: '/en/waldoz/chapter1'},
-              { text: 'Chapter 2: Amnesia', link: '/en/waldoz/chapter2'},
-              { text: 'Chapter 3: me', link: '/en/waldoz/chapter3'},
-              {text: 'Chapter 4: Day of Repentance', link: '/en/waldoz/chapter4'}
-            ]
-          },
-          {
-            text: 'Forward',
+            text: 'More',
             items: [
               {text: 'More', link: '/'}
             ]

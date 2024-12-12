@@ -15,10 +15,10 @@ hero:
       link: en/about
 
 features:
-  - title: Waldoz
-    details: An interstellar epic.
-  - title: Forward Pass
-    details: A prequel to The Waldos.
+  - title: More
+    details: ...
+  - title: More
+    details: ...
   - title: More
     details: Soon...
 ---
